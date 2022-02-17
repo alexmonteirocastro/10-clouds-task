@@ -1,0 +1,13 @@
+{
+  "name": "Alexandre_Castro_Technical_Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^9.5.0"
+  },
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run"
+  }
+}
