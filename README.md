@@ -28,7 +28,7 @@ yarn
 Run cypress tests with 
 
 ```
-yarn cypress:open`
+yarn cypress:open
 ```
 
 Run cypress tests in headless mode with 
